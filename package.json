@@ -1,0 +1,18 @@
+{
+  "name": "Coco_testFrameWork",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react-native": "^0.16.0",
+    "react-native-button": "^1.3.1"
+  },
+  "gitHead": "b3ba24111d685db84b1af98097e19591d8241383",
+  "readme": "ERROR: No README data found!",
+  "_id": "Coco_testFrameWork@0.0.1",
+  "_shasum": "5602a3f10008a44454036923192b8e1585885f52",
+  "_from": "git+https://github.com/roveroc/multiImagePickerofNative.git",
+  "_resolved": "git+https://github.com/roveroc/multiImagePickerofNative.git#b3ba24111d685db84b1af98097e19591d8241383"
+}
